@@ -1,12 +1,12 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "Moss Fantasy Console",
     "homepage": "https://github.com/moss-32/moss",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/moss-32/moss/releases/download/v0.1.6/moss-0.1.6-windows-x86_64.zip",
-            "hash": "29a7b27217f03f198eb77d5e7549149a0b3acf2b8448cdaf1584a19f075534a1"
+            "url": "https://github.com/moss-32/moss/releases/download/v0.1.7/moss-0.1.7-windows-x86_64.zip",
+            "hash": "51501560107c920c4246d674b79782e5030ec17a5b2fbf61fe2e6bf13277b0f8"
         }
     },
     "bin": [
